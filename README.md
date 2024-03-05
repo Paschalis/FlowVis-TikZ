@@ -32,6 +32,8 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Copyright (c) [2024] [Paschalis Moschogiannis]
 
 Licensed under the Apache License, Version 2.0 (the "License");
