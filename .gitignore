@@ -1,0 +1,83 @@
+# LaTeX generated files to ignore
+
+# Temporary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.lb
+
+# Bibliography files
+*.bbl
+*.blg
+*.brf
+*.nlo
+*.nls
+*.ilg
+*.ist
+*.glo
+*.gls
+*.xdy
+
+# Index files
+*.idx
+*.ind
+*.ilg
+*.inx
+
+# Glossary files
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+
+# Figure files
+*.figlist
+*.lof
+
+# Table files
+*.lot
+*.lol
+
+# Others
+*.synctex.gz
+*.synctex(busy)
+*.synctex.gz(busy)
+*.pdfsync
+
+# latexmk generated files
+*.fdb_latexmk
+*.synctex
+
+# TeXstudio generated files
+*.tex.bak
+
+# Vscode files
+*.code-workspace
+
+# User-specific aux files
+*.auxlock
+
+# Other potential temp files to ignore
+*_latexmk
+*.nav
+*.pre
+*.snm
+*.vrb
+*.xdv
+*.thm
+*.tps
+*.dvi
+*.pyg
+
+# Directories to ignore
+*_minted*
