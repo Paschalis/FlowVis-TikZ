@@ -21,7 +21,7 @@ This project showcases a flowchart diagram created in LaTeX with the TikZ packag
 
 The flowchart below visualizes the step-by-step process of 3D Particle Image Velocimetry (PIV)/Real-Time Visualization (RTV) measurement, illustrating the intricate workflow from setup to the final 3D3C velocity field analysis.
 
-![Flowchart Result](flowchart_result.png)
+[![Flowchart Result](flowchart_result.png)](Flowchart.pdf)
 <p align="center">
   <b>Click on the image to open the PDF.</b>
 </p>
